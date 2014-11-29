@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-quickstart
 
 A minimal React project template which combines:
@@ -65,3 +66,9 @@ optimized bundle to browser).
 [express]: expressjs.com
 [npm]: https://www.npmjs.org/
 [browserify]: http://browserify.org/
+=======
+Where_are_we_prototype
+======================
+
+The prototype built for User Interface Design project.
+>>>>>>> 4de6c857bd60e2c65752e0e457e16d5aa980b81f
